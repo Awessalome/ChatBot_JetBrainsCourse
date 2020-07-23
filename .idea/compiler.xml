@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Cats_are_robots_main" target="11" />
+      <module name="Problems-Cats_are_robots_test" target="11" />
+      <module name="Problems-Check_the_value_main" target="11" />
+      <module name="Problems-Check_the_value_test" target="11" />
+      <module name="Problems-Decrement_all_main" target="11" />
+      <module name="Problems-Decrement_all_test" target="11" />
+      <module name="Problems-Fill_the_declaration_main" target="11" />
+      <module name="Problems-Fill_the_declaration_test" target="11" />
+      <module name="Problems-The_forgotten_comments_main" target="11" />
+      <module name="Problems-The_forgotten_comments_test" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
+      <module name="Problems-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
